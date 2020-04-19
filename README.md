@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/juliano-soares/MaratonaDev3.0">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/juliano-soares/twitter-clone-flexbox">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
